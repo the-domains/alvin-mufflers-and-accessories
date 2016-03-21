@@ -1,0 +1,28 @@
+name: ALVIN MUFFLERS AND ACCESSORIES
+favicon: null
+layout_spectrum: 0.3293123012408614
+typography_spectrum: 0.4295379186514765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6050675786100328
+  lightness: 0.291609397623688
+  saturation: 0.632597969379276
+  rhythmicContrast: 0.562860794365406
+purpose: []
