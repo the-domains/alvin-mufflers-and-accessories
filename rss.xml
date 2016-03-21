@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ALVIN MUFFLERS AND ACCESSORIES]]></title>
         <description><![CDATA[ALVIN MUFFLERS AND ACCESSORIES]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alvin-mufflers-and-accessories/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 18:56:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 19:13:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alvin-mufflers-and-accessories/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[aFe POWER - It's What Your Engine Needs!]]></title>
+            <description><![CDATA[<article><h1>aFe POWER - It's What Your Engine Needs!</h1><p>https://youtu.be/vGaQsslnKU8</p></article>]]></description>
+            <link>https://thegrid.ai/alvin-mufflers-and-accessories/afe-power-its-what-your-engine-needs/index.html</link>
+            <guid isPermaLink="false">7269dc5c-2e9d-49b3-b178-858343af85d8</guid>
+            <pubDate>Mon, 21 Mar 2016 19:13:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0f7d7a9-71bf-4455-8d02-91d3c8bc73e7.jpg">]]></description>
-            <link>undefined3f4b9943-3175-4143-9f79-3ae0ddb2465e/index.html</link>
+            <link>https://thegrid.ai/alvin-mufflers-and-accessories/3f4b9943-3175-4143-9f79-3ae0ddb2465e/index.html</link>
             <guid isPermaLink="false">3f4b9943-3175-4143-9f79-3ae0ddb2465e</guid>
             <pubDate>Mon, 21 Mar 2016 18:55:57 GMT</pubDate>
         </item>
