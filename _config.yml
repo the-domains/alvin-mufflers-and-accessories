@@ -1,6 +1,6 @@
 name: ALVIN MUFFLERS AND ACCESSORIES
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49067
 typography_spectrum: 0.29743
 title: ALVIN MUFFLERS AND ACCESSORIES
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fdfdfd'
     - '#6594be'
     - '#f4756c'
-  brandStrength: 0.6050675786100328
-  lightness: 0.291609397623688
-  saturation: 0.632597969379276
-  rhythmicContrast: 0.562860794365406
+  brandStrength: 0.875
+  lightness: 0.75
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
